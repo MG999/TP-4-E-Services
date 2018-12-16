@@ -1,8 +1,6 @@
 # Homework TP-4-E-Services
 ## Architecture Microservices
 
-
-### Objectif
 Ce TP consiste à créer 3 services:
   1. Product Service: C'est un service qui contient la logique métier
   2. Config Service: c'est un service qui contient la configuration
